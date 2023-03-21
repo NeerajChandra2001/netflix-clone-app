@@ -1,0 +1,16 @@
+.banner{
+    height: 600px;
+    object-fit:contain;
+}
+.banner-content{
+    padding-top: 3900px;
+    margin-left: 50px;
+}
+.banner-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.banner-overview{
+    line-height: 30px;
+
+}
